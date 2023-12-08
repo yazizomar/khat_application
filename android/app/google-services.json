@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140888341473",
+    "project_id": "khatplatform",
+    "storage_bucket": "khatplatform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140888341473:android:e6fff419891e7cd5ff30a0",
+        "android_client_info": {
+          "package_name": "com.example.khat_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5QdvaWf9pE-JFVwtqV6bOBimqXCFBLdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
