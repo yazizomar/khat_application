@@ -1,15 +1,4 @@
 # khat_application
 
-A new Flutter project.
+This project’s aspiration is to create a platform to unify all different databases that involve toll gated payments as well as other traffic related fees and fines into a single database that merge the diverse entities, named Khat  (خط)which is a platform that simplifies and eases the payment process throughout all traffic applications and unifies the fare-sensing technology on all gates to have a single account linked to all tolls across the UAE. The main goal of this project is to develop Khat platform that is a automatic payment system that facilitates all traffic payments, such as toll-gates payments, traffic fines, parking fees, etc., in the United Arab Emirates using a unification approach, i.e., bringing all traffic applications into a common platform. This system differs from the well-known unified payment gateways like Google Pay  and Apple Pay in four key features: target-specific, local, secure, and private; that is, the system  focuses on inculcating all and only traffic-related payments into a common gateway for user accessibility, provides an efficient solution approach,  allows securely storing all traffic payment-related information in the local government databases, and also supports the privacy of user data such as personal information (i.e., names, addresses, telephone numbers, etc.) and payment details.  
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
